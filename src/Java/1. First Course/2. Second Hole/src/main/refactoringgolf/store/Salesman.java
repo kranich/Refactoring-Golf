@@ -10,7 +10,7 @@ public class Salesman extends Employee {
 		this.commissionPorcentage = commissionPorcentage;
 	}
 
-	public void setCommisionPorcentage(int commissionPorcentage) {
+	public void setCommissionPorcentage(int commissionPorcentage) {
 		this.commissionPorcentage = commissionPorcentage;
 	}
 
