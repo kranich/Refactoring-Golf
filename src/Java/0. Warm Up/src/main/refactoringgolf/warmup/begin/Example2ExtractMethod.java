@@ -1,11 +1,11 @@
 package refactoringgolf.warmup.begin;
 
-public class Example3ExtractMethod {
+public class Example2ExtractMethod {
 
 	private int quantity;
 	private double itemPrice;
 
-	public Example3ExtractMethod(int quantity, double itemPrice) {
+	public Example2ExtractMethod(int quantity, double itemPrice) {
 		this.itemPrice = itemPrice;
 		this.quantity = quantity;
 	}
