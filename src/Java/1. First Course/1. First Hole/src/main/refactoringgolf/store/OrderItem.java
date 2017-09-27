@@ -1,9 +1,9 @@
 package refactoringgolf.store;
 
 public class OrderItem {
-	
-	public Product product;
-	public int quantity;
+
+	private Product product;
+	private int quantity;
 
 	/*
 	 * Order Item Constructor
@@ -12,7 +12,7 @@ public class OrderItem {
 		this.product = product;
 		this.quantity = quantity;
 	}
-	
+
 	public Product getProduct() {
 		return product;
 	}

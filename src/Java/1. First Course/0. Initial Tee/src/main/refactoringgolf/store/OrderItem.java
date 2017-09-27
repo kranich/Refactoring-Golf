@@ -1,7 +1,7 @@
 package refactoringgolf.store;
 
 public class OrderItem {
-	
+
 	private Product product;
 	private int quantity;
 
@@ -12,7 +12,7 @@ public class OrderItem {
 		this.product = product;
 		this.quantity = quantity;
 	}
-	
+
 	public Product getProduct() {
 		return product;
 	}
