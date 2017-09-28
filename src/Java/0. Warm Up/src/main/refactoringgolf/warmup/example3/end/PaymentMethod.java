@@ -1,4 +1,4 @@
-package refactoringgolf.warmup.end.example3;
+package refactoringgolf.warmup.example3.end;
 
 public enum PaymentMethod {
 

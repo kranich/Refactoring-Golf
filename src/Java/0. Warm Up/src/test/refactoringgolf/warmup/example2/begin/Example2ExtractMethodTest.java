@@ -1,9 +1,11 @@
-package refactoringgolf.warmup.end;
+package refactoringgolf.warmup.example2.begin;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
 import org.junit.Test;
+
+import refactoringgolf.warmup.example2.begin.Example2ExtractMethod;
 
 public class Example2ExtractMethodTest {
 

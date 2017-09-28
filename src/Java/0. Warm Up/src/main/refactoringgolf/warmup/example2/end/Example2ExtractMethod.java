@@ -1,4 +1,4 @@
-package refactoringgolf.warmup.end;
+package refactoringgolf.warmup.example2.end;
 
 public class Example2ExtractMethod {
 

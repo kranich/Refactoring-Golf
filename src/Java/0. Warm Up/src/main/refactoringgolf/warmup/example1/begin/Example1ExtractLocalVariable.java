@@ -1,4 +1,4 @@
-package refactoringgolf.warmup.begin;
+package refactoringgolf.warmup.example1.begin;
 
 public class Example1ExtractLocalVariable {
 

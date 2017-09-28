@@ -1,11 +1,13 @@
-package refactoringgolf.warmup.begin;
+package refactoringgolf.warmup.example3.end;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
-import static refactoringgolf.warmup.begin.example3.PaymentMethod.CASH;
-import static refactoringgolf.warmup.begin.example3.PaymentMethod.PAYPAL;
+import static refactoringgolf.warmup.example3.end.PaymentMethod.CASH;
+import static refactoringgolf.warmup.example3.end.PaymentMethod.PAYPAL;
 
 import org.junit.Test;
+
+import refactoringgolf.warmup.example3.end.Example3MoveMethod;
 
 public class Example3MoveMethodTest {
 

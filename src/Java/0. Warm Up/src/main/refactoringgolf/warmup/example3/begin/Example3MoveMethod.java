@@ -1,6 +1,4 @@
-package refactoringgolf.warmup.begin;
-
-import refactoringgolf.warmup.begin.example3.PaymentMethod;
+package refactoringgolf.warmup.example3.begin;
 
 public class Example3MoveMethod {
 
