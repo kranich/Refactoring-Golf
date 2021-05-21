@@ -3,3 +3,5 @@ obj
 TestResults
 _Resharper.*
 target
+.idea
+*.iml
