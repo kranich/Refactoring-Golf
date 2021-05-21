@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="first-course-fourth-hole" />
+        <module name="first-course-initial-tee" />
         <module name="first-course-third-hole" />
         <module name="second-course-first-hole" />
         <module name="0. Warm Up" />
@@ -21,6 +22,7 @@
       <module name="first-course" target="11" />
       <module name="first-course-first-hole" target="11" />
       <module name="first-course-fourth-hole" target="11" />
+      <module name="first-course-initial-tee" target="11" />
       <module name="first-course-second-hole" target="11" />
       <module name="first-course-third-hole" target="11" />
       <module name="Java" target="1.5" />

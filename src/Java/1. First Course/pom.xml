@@ -10,6 +10,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
+		<module>0. Initial Tee</module>
 		<module>1. First Hole</module>
 		<module>2. Second Hole</module>
 		<module>3. Third Hole</module>
